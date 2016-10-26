@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="author" content="Tencent">
+<meta name="format-detection" content="telephone=no" />
+<meta name="viewport" id="viewport" content="initial-scale=1, maximum-scale=3, minimum-scale=1, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta name="Description" content="周边商城" />
+<meta name="Keywords" content="周边商城" />
+<link rel="stylesheet" href="css/common.css">
+<link rel="stylesheet" href="css/personal.css">
+<title>售后服务</title>
+<!-- 设计：cp | 重构：cp | 创建：20161019 -->
+</head>
+<body style="background: #f6f6f6">
+    <h1 class="">售后服务</h1>
+    <div class="wrap personal-wrap pr ovh" id="wrap">
+        <div class="nav-box txc">
+        	<ul class="">
+        		<li class="nav-1"><a href="javascript:;"><i class="icon icon-1 db bc sp"></i><span>首页</span></a></li>
+        		<li class="nav-2"><a href="javascript:;"><i class="icon icon-2 db bc sp"></i><span>分类</span></a></li>
+        		<li class="nav-3"><a href="javascript:;"><i class="icon icon-3 db bc sp"></i><span>购物车</span><strong>5</strong></a></li>
+        		<li class="nav-4"><a href="javascript:;"><i class="icon icon-4 db bc sp"></i><span>我的</span><strong>22</strong></a></li>
+        	</ul>
+        </div>
+        <div class="service-box">
+            <ul>
+                <li>
+                    <p class="service-title">Q1:使用微信支付不了？</p>
+                    <p class="service-txt">京东配送服务 配送服务查询 配送时效 配送异常 配送运费 商家配送服务 售后服务 售后政策(自营) 返修/退换货申请 售后政策(卖家) 商品返回 退款说</p>
+                </li>
+                <li>
+                    <p class="service-title">Q2:使用微信支付不了？</p>
+                    <p class="service-txt">京东配送服务 配送服务查询 配送时效 配送异常 配送运费 商家配送服务 售后服务 售后政策(自营) 返修/退换货申请 售后政策(卖家) 商品返回 退款说</p>
+                </li>
+                <li>
+                    <p class="service-title">Q3:使用微信支付不了？</p>
+                    <p class="service-txt">京东配送服务 配送服务查询 配送时效 配送异常 配送运费 商家配送服务 售后服务 售后政策(自营) 返修/退换货申请 售后政策(卖家) 商品返回 退款说</p>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+
+<script src="http://ossweb-img.qq.com/images/js/zepto/zepto.min.js"></script>
+<script src="js/common.js"></script>
+<script src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script>if(typeof(pgvMain) == 'function') pgvMain();</script>
+</body>
+</html>
